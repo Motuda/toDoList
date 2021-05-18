@@ -1,0 +1,13 @@
+.AddButton{
+    box-sizing: border-box;
+    width: 40px;
+    height: 40px;
+    padding: 3px;
+    line-height: 12px;
+    border-radius: 50%;
+    text-align: center;
+    font-size: 40px;
+    background-color: rgb(167, 67, 125);
+    color: antiquewhite;
+    border: none;
+}

@@ -1,0 +1,12 @@
+.TaskList{
+margin: 20px auto;
+padding: 30px;
+box-sizing: border-box;
+border-radius: 15px;
+width: 90vw;
+/* height: 70%; */
+background-color: antiquewhite;
+/* opacity: 0.8; */
+text-align: left;
+color: #444;
+}
