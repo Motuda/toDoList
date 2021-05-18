@@ -1,5 +1,5 @@
 import React from "react";
-import Header from "./Header/Header"
+import Header from "../src/Header/Header"
 import NewTaskFields from "../src/NewTaskFields/NewTaskFields";
 import './App.css';
 import TaskList from "./TaskList/TaskList";

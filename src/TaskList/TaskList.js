@@ -7,6 +7,10 @@ function TaskList() {
       <div className="TaskList">
          <ul>
              <TaskCard />
+             <TaskCard />
+             <TaskCard />
+             <TaskCard />
+             <TaskCard />
          </ul> 
       </div>
     );

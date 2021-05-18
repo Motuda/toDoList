@@ -10,3 +10,7 @@ background-color: antiquewhite;
 text-align: left;
 color: #444;
 }
+ul{
+    margin: 0 auto;
+    padding: 20px;
+}
